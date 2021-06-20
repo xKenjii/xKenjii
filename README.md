@@ -1,5 +1,10 @@
 ### Hi there 👋
-test
+
+## PROJECT I'M WORKING ON
+![logo](https://user-images.githubusercontent.com/25011289/122674084-e11cd580-d1d3-11eb-8a79-095ba2e0733f.png)
+![image](https://user-images.githubusercontent.com/25011289/122674173-2d681580-d1d4-11eb-8cd8-acac1924bf97.png)
+
+
 <!--
 **xKenjii/xKenjii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
