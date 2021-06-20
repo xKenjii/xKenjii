@@ -1,12 +1,7 @@
 ## PROJECT I'M WORKING ON
-![image](https://user-images.githubusercontent.com/25011289/122674173-2d681580-d1d4-11eb-8cd8-acac1924bf97.png)
 
-<a href="cyberise.nl">Cyberise</a>
-
-
-![image](https://user-images.githubusercontent.com/25011289/122674589-162a2780-d1d6-11eb-84f7-987c404d4825.png)
-
-<a href="https://play.google.com/store/apps/details?id=com.cyberise.whatweeatingtoday&hl=nl&ah=ORdgpIAGnCSb9EWwc70hCy_lpuc">What We Eating Today?</a>
+- <a href="cyberise.nl">Cyberise</a>
+- <a href="https://play.google.com/store/apps/details?id=com.cyberise.whatweeatingtoday&hl=nl&ah=ORdgpIAGnCSb9EWwc70hCy_lpuc">What We Eating Today?</a>
 
 
 <!--
