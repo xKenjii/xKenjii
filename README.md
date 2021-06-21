@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23C11A4EDD&size=25&center=true&vCenter=true&multiline=true&lines=Kenjii%239747;Cyberise;What+We+Eating+Today%3F)](https://git.io/typing-svg)
+
 ## PROJECT I'M WORKING ON
 
 - <a href="cyberise.nl">Cyberise</a>
