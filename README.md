@@ -1,8 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23C11A4EDD&size=25&vCenter=true&multiline=true&height=160&lines=Kenjii%239747;Cyberise;What+We+Eating+Today%3F)](https://git.io/typing-svg)
 
-## PROJECT I'M WORKING ON
-
-
 <!--
 **xKenjii/xKenjii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
